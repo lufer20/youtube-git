@@ -12,9 +12,10 @@
 9. git checkout master (Pasar a rama master)
 10. git merge rama-heroes (Fusionar Ramas)
 11. git branch -d rama-heroes (Eliminar una rama)
-12. git push
+Repositorio en la nube PRIMERA VEZ...
+12. git push (Subir cambios a repositorio en la nube)
 
-Repositorio en la nube(Github)
+Repositorio en la nube(Github): Comandos PRIMERA VEZ
 git remote add origin https://github.com/lufer20/youtube-git.git
 git branch -M main
 git push -u origin main
