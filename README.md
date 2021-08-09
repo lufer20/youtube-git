@@ -14,7 +14,7 @@
 11. git branch -d rama-heroes (Eliminar una rama)
 Repositorio en la nube PRIMERA VEZ...
 12. git push (Subir cambios a repositorio en la nube)
-13. git commit -am
+13. git commit -am (Combina git add . y git commit en un solo comando)
 
 Repositorio en la nube(Github): Comandos PRIMERA VEZ
 git remote add origin https://github.com/lufer20/youtube-git.git
